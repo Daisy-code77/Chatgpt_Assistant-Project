@@ -1,0 +1,6 @@
+import openai
+
+openai.api_key = "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"
+
+completion = openai.ChatCompletion.create(model="gpt-3.5-turbo", messages=[{"role": "user", "content": "Give me 3 ideas for apps I could build with openai apis "}])
+print(completion.choices[0].message.content)
