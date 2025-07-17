@@ -1,0 +1,2 @@
+def format_response(response_text):
+    return f"🤖 GPT says: {response_text}"
