@@ -109,10 +109,10 @@ chatgpt-ai-project/
 
 ## 👩‍💻 Author
 
-Daisy
+Daisy, 
 Final Year B.E. Computer Science Student  
 Passionate about AI, Web Development, and Social Impact Tech  
-📫 Connect on GitHub: 
+📫 Connect on GitHub: https://github.com/Daisy-code77
 
 ---
 
